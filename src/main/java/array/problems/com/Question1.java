@@ -19,7 +19,6 @@ public class Question1 {
             int inputList = scan.nextInt();
             // Assigning the element to the array
             myList[i]=inputList;
-
         }
 
         // Declare the variable and assign minimum value
